@@ -1,0 +1,8 @@
+{
+  "name": "cloudinary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saowalakmako/cloudinary.git",
+  "author": "saowalakmako <saowalakmako@proton.me>",
+  "license": "MIT"
+}
